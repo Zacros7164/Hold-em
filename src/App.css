@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.the-table{
+  background: #277714;
+  border-radius: 10px;
+  padding: 20px;
+}
+.card{
+  border-radius: 10px;
+  max-width: 100%;
+  padding: 5px;
+}
+
+img{
+  width:100%;
+}
+
